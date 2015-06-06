@@ -14,8 +14,8 @@ This repo contains all of the code to send OpenBCI biosignals from the Processin
 
 1. Setup Hamachi (get "IP")
 	a. Get LogMeIn Hamachi: [https://secure.logmein.com/products/hamachi/download.aspx](https://secure.logmein.com/products/hamachi/download.aspx)
-	* asdf
-	* asdf
+	* VPN network ID: 299-006-587
+	* Pass: brain
 * OpenBCI_GUI_EMG =>NetBridge Receiver
 * NetBridge_Receiver => HHI
 * HHI => Hand Setup (adjust values... be careful...)
